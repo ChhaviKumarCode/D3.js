@@ -25,6 +25,7 @@ footer {
   float: right;
   list-style: none;
   margin-top: 30px;
+  padding: 30px;
 }
 
 .nav-menu li {
